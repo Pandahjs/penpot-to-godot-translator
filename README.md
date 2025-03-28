@@ -1,3 +1,12 @@
+# Penpot to Godot Translator
+
+This project is a Fork of MightyMochi's "Figma to Godot" tool, with the intent of supporting PenPot.
+At the moment, this REPO is just a copy of that Repo while I make the changes.
+
+## This is currently in an Unfinished State!!!! Attempts to message me about it will result in aggressive amounts of ignoring you.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Figma to Godot Experiment
 An experimental Figma json importer that auto-builds nodes in Godot. 
 
